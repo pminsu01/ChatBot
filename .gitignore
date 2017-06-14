@@ -1,0 +1,11 @@
+*.log
+*.txt
+*.meta
+*.ckpt
+__pycache__/
+.idea/
+logs/
+!chat.log
+
+
+
